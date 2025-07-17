@@ -1,0 +1,19 @@
+{
+  "name": "Paf Casino Sverige",
+  "short_name": "Paf Casino Sverige",
+  "theme_color": "",
+  "background_color": "#161d36",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://paf-casino-online.com/icons/icon-192x192.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

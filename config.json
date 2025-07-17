@@ -1,0 +1,541 @@
+{
+    "en": {
+        "styles": {
+            "bg": "#161d36",
+            "bg-light": "#161d36",
+            "welcome-bonus-bg": "#060e29",
+            "top-games-hover-fg": "#ff4c00",
+            "main-bg": "#060e29",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#161d36",
+            "text-head": "#ffffff",
+            "hero-title-text": "#ffffff",
+            "welcome-bonus-text": "#ff4c00",
+            "yellow": "#5178ff",
+            "yellow-button": "#ff4c00",
+            "button-text": "#ffffff",
+            "border-color": "#6b6b6b",
+            "casino-cards": "#0e193c",
+            "bonus-border-head": "#6b6b6b",
+            "bonus-border": "#6b6b6b",
+            "pay-back": "#0e193c",
+            "providers-back": "#0e193c",
+            "faq-label": "#0e193c",
+            "bg-footer": "#161d36",
+            "copyright": "#6b6b6b",
+            "baseFont": {
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/8",
+                "isCustom": true
+            },
+            "primaryFont": {
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/9",
+                "isCustom": true
+            }
+        },
+        "seo": {
+            "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+            "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, s\u00e4kra ins\u00e4ttningar och uttag. Spela med komfort och s\u00e4kerhet och gl\u00f6m inte att h\u00e4mta din bonus!",
+            "canonical": "#",
+            "ogImage": "http:\/\/159.223.4.88:8000\/api\/images\/download\/84",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "@pafcasino",
+            "favicon": "https:\/\/paf-casino-online.com\/favicon.ico",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/paf-casino-online.com\/icons\/icon-192x192.webp"
+        },
+        "header": {
+            "logo": "http:\/\/159.223.4.88:8000\/api\/images\/download\/86",
+            "logoAlt": "Paf Casino Sverige Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Welcome Bonus",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/87",
+            "mobileImage": "http:\/\/159.223.4.88:8000\/api\/images\/download\/88"
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get the Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Legal and safe casino",
+                "Quick registration",
+                "Data protection",
+                "No wagering bonus",
+                "Wide range of games"
+            ],
+            "advantagesAfterText": "Some text after list",
+            "knowMore": "Know more",
+            "appTitle": "Mobile App",
+            "mobile": "http:\/\/159.223.4.88:8000\/api\/images\/download\/92",
+            "mobileAlt": "Mobile App",
+            "mobileGooglePlayImageTitle": "Mobile App",
+            "mobileIosImageTitle": "Mobile App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "History",
+                "description1": "First paragraph of history",
+                "items": [
+                    "History item 1",
+                    "History item 2"
+                ],
+                "description2": "Second paragraph of history",
+                "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/93",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Third paragraph of history"
+            },
+            "connect": {
+                "title": "Connect",
+                "description1": "First paragraph of connect",
+                "items": [
+                    "Connect item 1",
+                    "Connect item 2"
+                ],
+                "description2": "Second paragraph of connect"
+            },
+            "deposit1": {
+                "title": "Deposit 1",
+                "description1": "First paragraph of deposit 1",
+                "items": [
+                    "Deposit 1 item 1",
+                    "Deposit 1 item 2"
+                ],
+                "description2": "Second paragraph of deposit 1"
+            },
+            "deposit2": {
+                "title": "Deposit 2",
+                "description1": "First paragraph of deposit 2",
+                "items": [
+                    "Deposit 2 item 1",
+                    "Deposit 2 item 2"
+                ],
+                "description2": "Second paragraph of deposit 2"
+            }
+        },
+        "payMethod": {
+            "title": "Payment Methods",
+            "method": "Method",
+            "type": "Type",
+            "country": "Country",
+            "commission": "Commission",
+            "processingTime": "Processing Time",
+            "minimumDeposit": "Minimum Deposit",
+            "deposit": "Deposit"
+        },
+        "security": {
+            "title1": "Security Title 1",
+            "description1": "Security description 1",
+            "title2": "Security Title 2",
+            "description2": "Security description 2"
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "application": {
+            "title": "Mobile Application",
+            "description1": "Application description",
+            "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/94",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "imageAlt": "Mobile Application"
+        },
+        "idioma": {
+            "title1": "Language Title 1",
+            "description1": "Language description 1",
+            "title2": "Language Title 2",
+            "description2": "Language description 2"
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "FAQ Question 1",
+                    "answer": "FAQ Answer 1"
+                },
+                {
+                    "title": "FAQ Question 2",
+                    "answer": "FAQ Answer 2"
+                }
+            ]
+        },
+        "availableGames": {
+            "title": "Available Games",
+            "description": "Available games description",
+            "column1": [
+                {
+                    "title": "Game 1",
+                    "description": "Game 1 description"
+                }
+            ],
+            "column2": [
+                {
+                    "title": "Game 2",
+                    "description": "Game 2 description"
+                }
+            ]
+        },
+        "support": {
+            "title": "Support",
+            "description1": "Support description 1",
+            "items": [
+                "Support item 1",
+                "Support item 2"
+            ],
+            "description2": "Support description 2",
+            "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/95",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "imageAlt": "Support"
+        },
+        "bonuses": {
+            "title": "Bonuses",
+            "description": "Bonuses description",
+            "column1": [
+                {
+                    "title": "Bonus 1",
+                    "description": "Bonus 1 description"
+                }
+            ],
+            "column2": [
+                {
+                    "title": "Bonus 2",
+                    "description": "Bonus 2 description"
+                }
+            ]
+        },
+        "prosAndCons": {
+            "title": "Pros and Cons",
+            "description": "Pros and cons description",
+            "pros": {
+                "title": "Pros",
+                "items": [
+                    "Pros item 1",
+                    "Pros item 2"
+                ]
+            },
+            "cons": {
+                "title": "Cons",
+                "items": [
+                    "Cons item 1",
+                    "Cons item 2"
+                ]
+            }
+        },
+        "footer": {
+            "logo": "http:\/\/159.223.4.88:8000\/api\/images\/download\/96",
+            "copyright": "Paf Casino"
+        }
+    },
+    "fr": {
+        "styles": {
+            "bg": "#161d36",
+            "bg-light": "#161d36",
+            "welcome-bonus-bg": "#060e29",
+            "top-games-hover-fg": "#ff4c00",
+            "main-bg": "#060e29",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#161d36",
+            "text-head": "#ffffff",
+            "hero-title-text": "#ffffff",
+            "welcome-bonus-text": "#ff4c00",
+            "yellow": "#5178ff",
+            "yellow-button": "#ff4c00",
+            "button-text": "#ffffff",
+            "border-color": "#6b6b6b",
+            "casino-cards": "#0e193c",
+            "bonus-border-head": "#6b6b6b",
+            "bonus-border": "#6b6b6b",
+            "pay-back": "#0e193c",
+            "providers-back": "#0e193c",
+            "faq-label": "#0e193c",
+            "bg-footer": "#161d36",
+            "copyright": "#6b6b6b",
+            "baseFont": {
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/8",
+                "isCustom": true
+            },
+            "primaryFont": {
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/9",
+                "isCustom": true
+            }
+        },
+        "seo": {
+            "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+            "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, s\u00e4kra ins\u00e4ttningar och uttag. Spela med komfort och s\u00e4kerhet och gl\u00f6m inte att h\u00e4mta din bonus!",
+            "canonical": "#",
+            "ogImage": "http:\/\/159.223.4.88:8000\/api\/images\/download\/84",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "@pafcasino",
+            "favicon": "https:\/\/paf-casino-online.com\/favicon.ico",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/paf-casino-online.com\/icons\/icon-192x192.webp"
+        },
+        "header": {
+            "logo": "http:\/\/159.223.4.88:8000\/api\/images\/download\/86",
+            "logoAlt": "Paf Casino Sverige Logo"
+        },
+        "nav": {
+            "signUp": "Se connecter",
+            "playNow": "S'inscrire"
+        },
+        "hero": {
+            "title": "Bonus de bienvenue",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Bonus de bienvenue exclusive de",
+            "playGame": "Play game",
+            "claimBonus": "R\u00e9clamez le bonus",
+            "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/87",
+            "mobileImage": "http:\/\/159.223.4.88:8000\/api\/images\/download\/88"
+        },
+        "topCasino": {
+            "topCasinoButtonText": "R\u00e9clamez le bonus",
+            "title": "Meilleurs casinos",
+            "allCasino": "Tous les casinos"
+        },
+        "bonusDetails": {
+            "title": "D\u00e9tails des bonus",
+            "getBonusButtonText": "Obtenez le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code bonus",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Taux",
+            "freeSpins": "Free Spins",
+            "moreInfo": "Plus info",
+            "get": "Obtenir",
+            "refresh": "Rafra\u00eechir"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Vaste collection de jeux",
+                "Interface conviviale",
+                "Bonus de bienvenue attractif",
+                "Syst\u00e8me de cashback quotidien",
+                "Programme VIP et de fid\u00e9lit\u00e9",
+                "Paiements s\u00e9curis\u00e9s et retraits rapides."
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "En savoir plus",
+            "appTitle": "Nine Casino APP",
+            "mobile": "http:\/\/159.223.4.88:8000\/api\/images\/download\/92",
+            "mobileAlt": "Mobile App",
+            "mobileGooglePlayImageTitle": "Nine Casino dans l'App Store",
+            "mobileIosImageTitle": "Nine Casino dans Google Play"
+        },
+        "games": {
+            "playNowText": "Jouez maintenant",
+            "title": "Meilleurs jeux",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "Avis sur Nine Casino online",
+                "description1": "En 2021, Uno Digital Media B.V. a lanc\u00e9 Nine Casino, qui est devenu en quelques ann\u00e9es l'un des casinos pr\u00e9f\u00e9r\u00e9s des joueurs fran\u00e7ais. Avec plus de 6 000 jeux dans sa biblioth\u00e8que provenant de Pragmatic Play, Spinomenal, BGaming et Play'n GO, vous pouvez profiter d'un large choix ici. Comme la plateforme n'est pas encore agr\u00e9\u00e9e en France, elle est r\u00e9glement\u00e9e par Cura\u00e7ao et maintient un bon niveau de protection pour ses joueurs. Les param\u00e8tres de fiabilit\u00e9 et de s\u00e9curit\u00e9 sont strictement respect\u00e9s. Vous pouvez lire les d\u00e9tails dans cette revue.",
+                "items": [],
+                "description2": "",
+                "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/93",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            },
+            "connect": {
+                "title": "Nine Casino FR Inscription",
+                "description1": "L'inscription sur Nine Casino ne prend pas beaucoup de temps et vous permet de jouer \u00e0 une large gamme de jeux de casino passionnants. Les nouveaux clients b\u00e9n\u00e9ficient d'avantages, de bonus personnalis\u00e9s et d'une interface conviviale sp\u00e9cialement con\u00e7ue pour eux. Si vous souhaitez vous inscrire, suivez les instructions \u00e9tape par \u00e9tape :",
+                "items": [
+                    "Vous pouvez vous inscrire sur la page d'accueil de Nine Casino avis en cliquant sur le bouton \u00ab S'inscrire \u00bb.",
+                    "Vous devez ajouter votre nom, votre adresse e-mail, votre date de naissance et votre adresse actuelle pour compl\u00e9ter votre profil."
+                ],
+                "description2": "Apr\u00e8s votre inscription, vous pouvez d\u00e9poser de l'argent, profiter des bonus de bienvenue et jouer \u00e0 divers jeux. Depuis le tableau de bord de votre compte, vous pouvez consulter votre progression, utiliser les bonus que vous avez gagn\u00e9s et participer \u00e0 des promotions adapt\u00e9es \u00e0 vos jeux pr\u00e9f\u00e9r\u00e9s."
+            },
+            "deposit1": {
+                "title": "M\u00e9thodes de d\u00e9p\u00f4t sur Nine Casino Ferme",
+                "description1": "Nine Casino 15 prend en charge diverses options de paiement adapt\u00e9es aux joueurs fran\u00e7ais :",
+                "items": [
+                    "Visa\/MasterCard"
+                ],
+                "description2": "Le d\u00e9p\u00f4t minimum pour b\u00e9n\u00e9ficier du bonus de bienvenue est de 30 \u20ac, et tous les d\u00e9p\u00f4ts sont trait\u00e9s instantan\u00e9ment sans frais."
+            },
+            "deposit2": {
+                "title": "57 Nine Casino m\u00e9thodes de retrait",
+                "description1": "Les retraits sont g\u00e9n\u00e9ralement trait\u00e9s rapidement :",
+                "items": [
+                    "Portefeuilles \u00e9lectroniques (Skrill, Neteller) : g\u00e9n\u00e9ralement dans les 24 heures."
+                ],
+                "description2": "Le montant minimum de retrait est de 20 \u20ac, et les retraits doivent \u00eatre effectu\u00e9s en utilisant le m\u00eame mode de paiement que celui utilis\u00e9 pour le d\u00e9p\u00f4t initial. Il n'y a pas de frais de retrait."
+            }
+        },
+        "payMethod": {
+            "title": "M\u00e9thodes de paiement",
+            "method": "M\u00e9thode",
+            "type": "Type",
+            "country": "Pays",
+            "commission": "Commission",
+            "processingTime": "Temps de traitement",
+            "minimumDeposit": "D\u00e9p\u00f4t minimum",
+            "deposit": "D\u00e9p\u00f4t"
+        },
+        "security": {
+            "title1": "Technologies logicielles",
+            "description1": "En collaboration avec des experts de renom tels que Pragmatic Play, Spinomenal, BGaming et Play'n GO, 9 Nine Casino donne acc\u00e8s \u00e0 plus de 6 000 jeux de premier ordre. Des graphismes, un son en direct et un g\u00e9n\u00e9rateur de nombres al\u00e9atoires fiable alimentent tous les jeux de la collection. Le casino ajoute r\u00e9guli\u00e8rement de nouveaux jeux \u00e0 sa biblioth\u00e8que afin de suivre les derni\u00e8res tendances.",
+            "title2": "S\u00e9curit\u00e9 sur Nine-Casino",
+            "description2": "La s\u00e9curit\u00e9 des joueurs et la protection des donn\u00e9es sont des priorit\u00e9s absolues pour Nine Casino. En tant que plateforme r\u00e9glement\u00e9e par Cura\u00e7ao, elle applique des r\u00e8gles claires et \u00e9quitables. Ces donn\u00e9es importantes sont prot\u00e9g\u00e9es par un cryptage SSL avanc\u00e9, qui correspond au niveau de protection utilis\u00e9 par les principales institutions financi\u00e8res. Gr\u00e2ce au cryptage, les donn\u00e9es sont prot\u00e9g\u00e9es contre les tentatives d'acc\u00e8s non autoris\u00e9es et les cybermenaces.\n\nDes conseils utiles sur le jeu responsable sont disponibles dans Nine Casino app. Ceux-ci comprennent des exemples de limites de d\u00e9p\u00f4t, la possibilit\u00e9 de se d\u00e9sinscrire et des outils pour aider les personnes souffrant de probl\u00e8mes de jeu. Une \u00e9quipe de sp\u00e9cialistes est disponible 24 heures sur 24 et 7 jours sur 7 pour r\u00e9soudre tout probl\u00e8me de s\u00e9curit\u00e9 li\u00e9 au jeu."
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "application": {
+            "title": "Nine Casino App Download",
+            "description1": "Bien qu'il n'existe pas d'application, Nine Casino a cr\u00e9\u00e9 un site mobile qui fonctionne \u00e0 la fois sur les appareils iOS et Android. Gr\u00e2ce \u00e0 ce site mobile, les joueurs peuvent choisir parmi des milliers de jeux, g\u00e9rer leurs comptes et utiliser toutes les fonctionnalit\u00e9s d'un casino mobile. Le site mobile est rapide, facile \u00e0 utiliser et comprend toutes les fonctionnalit\u00e9s du site principal, ce qui vous permet de jouer partout et \u00e0 tout moment.",
+            "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/94",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "imageAlt": "Mobile Application"
+        },
+        "idioma": {
+            "title1": "Devises",
+            "description1": "Les droits de change sont disponibles pour les utilisateurs utilisant l'euro (EUR), la livre sterling (GBP) et le dollar am\u00e9ricain (USD).",
+            "title2": "Langues",
+            "description2": "Les joueurs fran\u00e7ais et internationaux trouveront le site du casino en anglais."
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "O\u00f9 puis-je obtenir le bonus code Nine Casino pour la promotion de bienvenue en France ?",
+                    "answer": "Inscrivez-vous, d\u00e9posez 30 \u20ac ou plus et le Nine casino code bonus sans d\u00e9p\u00f4t sera cr\u00e9dit\u00e9 sans que vous ayez \u00e0 intervenir. Pour plus de d\u00e9tails, consultez la section des promotions, car tout est indiqu\u00e9 dans les diff\u00e9rentes parties des Nine Casino 250 free spins."
+                },
+                {
+                    "title": "Nine Casino est-il autoris\u00e9 en France ?",
+                    "answer": "M\u00eame si Nine Casino ne dispose pas d'une licence d\u00e9livr\u00e9e par l'autorit\u00e9 fran\u00e7aise, il d\u00e9tient une licence de Cura\u00e7ao. Les personnes r\u00e9sidant en France peuvent s'inscrire en tant que joueurs et le site web fonctionne selon les normes de s\u00e9curit\u00e9 les plus strictes au monde."
+                }
+            ]
+        },
+        "availableGames": {
+            "title": "Nine Casino 5 jeux disponibles",
+            "description": "Ce casino propose une grande vari\u00e9t\u00e9 de jeux, notamment des machines \u00e0 sous, des jeux de table, des jackpots et des jeux avec croupier en direct. Les joueurs peuvent essayer gratuitement une grande vari\u00e9t\u00e9 de jeux en mode d\u00e9mo, sans inscription. Les joueurs inscrits peuvent participer \u00e0 des tournois avec des gains r\u00e9els. Pour aider les joueurs \u00e0 trouver un jeu, des cat\u00e9gories et des filtres sont disponibles, leur permettant de s\u00e9lectionner les jeux par th\u00e8me, d\u00e9veloppeur et divers param\u00e8tres.",
+            "column1": [
+                {
+                    "title": "Plinko Nine Casino et machines \u00e0 sous",
+                    "description": "Avec plus de 6 000 jeux, Nine Casino application offre un large choix, notamment des machines \u00e0 sous qui ont fait leurs preuves et les derni\u00e8res machines \u00e0 sous vid\u00e9o. L'utilisation du bouton \u00ab acheter \u00bb pour les machines \u00e0 sous contribue \u00e0 certaines des mises requises."
+                }
+            ],
+            "column2": [
+                {
+                    "title": "Jeux de table",
+                    "description": "Le Nine casino 9 propose plusieurs formes passionnantes de jeux de table, telles que divers titres de blackjack, roulette, baccarat et poker. Les jeux cr\u00e9ent une ambiance de casino traditionnel, qui convient aussi bien aux d\u00e9butants qu'aux joueurs plus exp\u00e9riment\u00e9s."
+                }
+            ]
+        },
+        "support": {
+            "title": "Service client",
+            "description1": "Nine Casino offre un service client disponible 24h\/24 et 7j\/7 via plusieurs canaux pratiques : Assistance par e-mail : support@ninecasino.com ; Chat en direct ; Telegram Bot : @NineCasino_assistant_bot. Une FAQ est disponible sur le site web pour obtenir rapidement des r\u00e9ponses en libre-service.",
+            "items": [],
+            "description2": "",
+            "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/95",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "imageAlt": "Support"
+        },
+        "bonuses": {
+            "title": "Code bonus Nine Win Casino et promotions",
+            "description": "",
+            "column1": [
+                {
+                    "title": "Bonus Nine Casino de bienvenue",
+                    "description": "En 2025, l'utilisation du Nine Casino bonus code 2024 vous permettra de b\u00e9n\u00e9ficier d'un superbe cadeau de bienvenue pour vos trois premiers d\u00e9p\u00f4ts :\n\nPour votre premier d\u00e9p\u00f4t, vous pouvez obtenir un bonus de 100 %, jusqu'\u00e0 250 \u20ac, et jouer 150 tours gratuits sur les jeux populaires Starburst et Book of Dead.\nVotre deuxi\u00e8me d\u00e9p\u00f4t sera augment\u00e9 de 55 %, jusqu'\u00e0 250 \u20ac, et 150 tours suppl\u00e9mentaires seront \u00e9galement cr\u00e9dit\u00e9s sur votre compte.\nPour votre troisi\u00e8me d\u00e9p\u00f4t, vous pouvez obtenir jusqu'\u00e0 150 \u20ac de bonus, mais vous ne recevrez pas de tours gratuits en plus.\nVous devez utiliser le Nine Casino bonus de bienvenue dans un d\u00e9lai d'une semaine et le miser pour un montant \u00e9gal \u00e0 35 fois le bonus combin\u00e9 et votre d\u00e9p\u00f4t, ce qui correspond \u00e0 peu pr\u00e8s au bonus de bienvenue moyen des autres casinos."
+                }
+            ],
+            "column2": [
+                {
+                    "title": "Code promo Nine Casino France 2025 et cashback quotidien",
+                    "description": "Le syst\u00e8me de Nine Casino offre un cashback quotidien bas\u00e9 sur les pertes de la veille, qui varie en fonction du montant d\u00e9pos\u00e9 :\n\nD\u00e9p\u00f4ts entre 20 \u20ac et 500 \u20ac : jusqu'\u00e0 25 \u20ac de cashback.\nD\u00e9p\u00f4ts entre 501 \u20ac et 1 000 \u20ac : jusqu'\u00e0 60 \u20ac de cashback.\nD\u00e9p\u00f4ts entre 1 001 \u20ac et 2 500 \u20ac : jusqu'\u00e0 200 \u20ac de cashback.\nD\u00e9p\u00f4ts entre 2 501 \u20ac et 5 000 \u20ac : jusqu'\u00e0 500 \u20ac de cashback.\nD\u00e9p\u00f4ts sup\u00e9rieurs \u00e0 5 001 \u20ac : jusqu'\u00e0 1 250 \u20ac de cashback \u00e0 un taux de 12,15 %.\nDe plus, les joueurs VIP peuvent recevoir jusqu'\u00e0 25 % de cashback sur invitation."
+                }
+            ]
+        },
+        "prosAndCons": {
+            "title": "Avantages",
+            "description": "Il est n\u00e9cessaire d'\u00e9tudier les avantages et les inconv\u00e9nients d'un casino en ligne avant de d\u00e9cider de l'utiliser. Les joueurs fran\u00e7ais trouveront plusieurs raisons de consid\u00e9rer Casino Nine comme une excellente option. La satisfaction des utilisateurs, l'offre vari\u00e9e et les m\u00e9thodes de promotion flexibles sont ce qui le rend meilleur que la plupart des nouveaux sites de jeux d'argent.",
+            "pros": {
+                "title": "Avantages:",
+                "items": [
+                    "Vaste collection de jeux",
+                    "Interface conviviale"
+                ]
+            },
+            "cons": {
+                "title": "Inconv\u00e9nients:",
+                "items": [
+                    "Pas d'application mobile native",
+                    "Options de devises limit\u00e9es."
+                ]
+            }
+        },
+        "footer": {
+            "logo": "http:\/\/159.223.4.88:8000\/api\/images\/download\/96",
+            "copyright": "Nine Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        },
+        {
+            "code": "fr",
+            "name": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439",
+            "isDefault": false
+        }
+    ]
+}
