@@ -225,8 +225,8 @@ body.overflow {
 }
 
 :root {
-  --accent-font: '', 'http://159.223.4.88:8000/api/fonts/download/9', sans-serif;
-  --base-font: '', 'http://159.223.4.88:8000/api/fonts/download/8', sans-serif;
+  --accent-font: '', 'http://159.223.4.88:8000/api/fonts/download/8', sans-serif;
+  --base-font: '', '_assets/fonts/1752145804_Roboto-Medium.ttf', sans-serif;
 
   --bg: #161d36;
   --bg-light: #161d36;

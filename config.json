@@ -4,7 +4,7 @@
             "bg": "#161d36",
             "bg-light": "#161d36",
             "welcome-bonus-bg": "#060e29",
-            "top-games-hover-fg": "#ff4c00",
+            "top-games-hover-fg": "#ff00dd",
             "main-bg": "#060e29",
             "text": "#ffffff",
             "text-black": "#ffffff",
@@ -24,12 +24,13 @@
             "faq-label": "#0e193c",
             "bg-footer": "#161d36",
             "copyright": "#6b6b6b",
+            "starColor": "#17d26a",
             "baseFont": {
-                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/8",
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/11",
                 "isCustom": true
             },
             "primaryFont": {
-                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/9",
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/8",
                 "isCustom": true
             }
         },
@@ -152,6 +153,7 @@
         },
         "payMethod": {
             "title": "Payment Methods",
+            "paymentMethodsButtonText": "Deposit",
             "method": "Method",
             "type": "Type",
             "country": "Country",
@@ -291,12 +293,13 @@
             "faq-label": "#0e193c",
             "bg-footer": "#161d36",
             "copyright": "#6b6b6b",
+            "starColor": "#17d26a",
             "baseFont": {
-                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/8",
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/11",
                 "isCustom": true
             },
             "primaryFont": {
-                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/9",
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/8",
                 "isCustom": true
             }
         },
@@ -327,7 +330,7 @@
             "textDesktop": "Offre de bienvenue exclusive de",
             "textMobile": "Bonus de bienvenue exclusive de",
             "playGame": "Play game",
-            "claimBonus": "R\u00e9clamez le bonus",
+            "claimBonus": "Bonus beanspruchen",
             "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/87",
             "mobileImage": "http:\/\/159.223.4.88:8000\/api\/images\/download\/88"
         },
@@ -366,8 +369,8 @@
             "appTitle": "Nine Casino APP",
             "mobile": "http:\/\/159.223.4.88:8000\/api\/images\/download\/92",
             "mobileAlt": "Mobile App",
-            "mobileGooglePlayImageTitle": "Nine Casino dans l'App Store",
-            "mobileIosImageTitle": "Nine Casino dans Google Play"
+            "mobileGooglePlayImageTitle": "Nine Casino dans Google Play",
+            "mobileIosImageTitle": "Nine Casino dans l'App Store"
         },
         "games": {
             "playNowText": "Jouez maintenant",
@@ -415,6 +418,7 @@
         },
         "payMethod": {
             "title": "M\u00e9thodes de paiement",
+            "paymentMethodsButtonText": "Deposit",
             "method": "M\u00e9thode",
             "type": "Type",
             "country": "Pays",

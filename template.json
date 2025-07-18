@@ -645,6 +645,12 @@
           "default": "#e7e7d5"
         },
         {
+          "id": "starColor",
+          "name": "Цвет иконки звезды",
+          "type": "color",
+          "default": "#17d26a"
+        },
+        {
           "id": "baseFont",
           "name": "Основной шрифт",
           "type": "font",
@@ -900,13 +906,13 @@
           "type": "text",
           "default": "Maximum amount"
         },
-        { 
+        {
           "id": "wagerText",
           "name": "Wager Text",
           "type": "text",
           "default": "Wager"
         },
-        { 
+        {
           "id": "bonusCodeText",
           "name": "Bonus Code Text",
           "type": "text",
@@ -1300,6 +1306,12 @@
           "type": "text",
           "description": "The title of the payment method section",
           "default": "Payment Methods"
+        },
+        {
+          "id": "paymentMethodsButtonText",
+          "name": "Payment Methods Button Text",
+          "type": "text",
+          "default": "Deposit"
         },
         {
           "id": "method",

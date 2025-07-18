@@ -109,7 +109,7 @@ document.addEventListener("DOMContentLoaded", function() {
             e.offers && e.offers.length > 0
               ? `casino.html?id=${e.offers[0].id}`
               : "/";
-          n += `\n      <div class="pygradientContainer">\n      <div class="payMethodRow payMethodRowContent">\n      <div class="payMethodItem payMethodItemImage">\n      <div class="payMethodItemContent">\n      <img \n      class="payMethodImage" \n      src="https://api.adkey-seo.com/storage/images/payments/${t.image || "default.png"}" \n      alt="${t.name || "Payment method"}" \n      width="120" \n      height="70"\n      onerror="this.src='./assets/images/placeholder.png'"\n      />\n      </div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent">${t.type || "N/A"}</div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent">${t.country || "N/A"}</div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent">${t.commission || "N/A"}</div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent payMethodItemWide">${t.processing_time || "N/A"}</div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent payMethodItemWide">${t.min_dep || "N/A"}</div>\n      </div>\n      <div class="payMethodItem payMethodItemDeposit">\n      <div class="payMethodItemContent">\n      <a target="_blank" class="payMethodLink" href="${a}" aria-label="Play game">\n      <span class="bonusButton-deposit btn btn--small">Deposit</span>\n      </a>\n      </div>\n      </div>\n      </div>\n      </div>\n      `;
+          n += `\n      <div class="pygradientContainer">\n      <div class="payMethodRow payMethodRowContent">\n      <div class="payMethodItem payMethodItemImage">\n      <div class="payMethodItemContent">\n      <img \n      class="payMethodImage" \n      src="https://api.adkey-seo.com/storage/images/payments/${t.image || "default.png"}" \n      alt="${t.name || "Payment method"}" \n      width="120" \n      height="70"\n      onerror="this.src='./assets/images/placeholder.png'"\n      />\n      </div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent">${t.type || "N/A"}</div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent">${t.country || "N/A"}</div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent">${t.commission || "N/A"}</div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent payMethodItemWide">${t.processing_time || "N/A"}</div>\n      </div>\n      <div class="payMethodItem">\n      <div class="payMethodItemContent payMethodItemWide">${t.min_dep || "N/A"}</div>\n      </div>\n      <div class="payMethodItem payMethodItemDeposit">\n      <div class="payMethodItemContent">\n      <a target="_blank" class="payMethodLink" href="${a}" aria-label="Play game">\n      <span class="bonusButton-deposit btn btn--small">${depositText}</span>\n      </a>\n      </div>\n      </div>\n      </div>\n      </div>\n      `;
         }),
           (t.innerHTML = n);
       })(t),
@@ -238,8 +238,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
         const u = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         u.setAttribute("class", "icon");
-        u.setAttribute("width", "33");
-        u.setAttribute("height", "33");
+        u.setAttribute("width", "20");
+        u.setAttribute("height", "20");
 
         const use = document.createElementNS(
           "http://www.w3.org/2000/svg",
