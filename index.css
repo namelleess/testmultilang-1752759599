@@ -224,9 +224,17 @@ body.overflow {
   font-family: var(--accent-font);
 }
 
+.nav__select {
+  background: var(--bg);
+  color: var(--lang-select-color);
+  text-transform: uppercase;
+}
+
 :root {
   --accent-font: '', 'http://159.223.4.88:8000/api/fonts/download/8', sans-serif;
   --base-font: '', '_assets/fonts/1752145804_Roboto-Medium.ttf', sans-serif;
+
+  --lang-select-color: #ffffff;
 
   --bg: #161d36;
   --bg-light: #161d36;
@@ -1932,13 +1940,14 @@ div:has(.moreInfoInput:checked + .moreInfoLabel) ~ .bonusDetailsInfo {
     width: 7.25rem;
   }
   .nav__list {
-    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
   }
   .nav__item {
     display: none;
   }
   .nav__itemLarge {
-    display: block;
+    display: flex;
   }
   .header__logo {
     height: auto;
@@ -3354,9 +3363,9 @@ div:has(.moreInfoInput:checked + .moreInfoLabel) ~ .bonusDetailsInfo {
 margin-top: 8px;
   }
   .nav__linkLarge {
-        width: 6.2rem;
-        font-size: 10px;
-        padding: 0.7rem;
+    width: 6rem;
+    font-size: 10px;
+    padding: 0.6rem;
   }
   .advantages,
   .advantagesTitle {
@@ -3379,5 +3388,16 @@ margin-top: 8px;
   .supportTitle {
     margin-bottom: 2.5rem;
     font-size: 1.2rem;
+  }
+}
+@media (max-width: 90rem) {
+  .heroTextGroup {
+    max-width: 60%;
+  }
+}
+
+@media (max-width: 70rem) {
+  .heroTextGroup {
+    max-width: 48%;
   }
 }

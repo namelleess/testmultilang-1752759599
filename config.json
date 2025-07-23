@@ -2,6 +2,7 @@
     "en": {
         "styles": {
             "bg": "#161d36",
+            "lang-select-color": "#ffffff",
             "bg-light": "#161d36",
             "welcome-bonus-bg": "#060e29",
             "top-games-hover-fg": "#ff00dd",
@@ -271,6 +272,7 @@
     "fr": {
         "styles": {
             "bg": "#161d36",
+            "lang-select-color": "#ffffff",
             "bg-light": "#161d36",
             "welcome-bonus-bg": "#060e29",
             "top-games-hover-fg": "#ff4c00",

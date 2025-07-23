@@ -507,6 +507,12 @@
           "default": "#f3f4f1"
         },
         {
+          "id": "lang-select-color",
+          "name": "Цвет выбора языка",
+          "type": "color",
+          "default": "#222829"
+        },
+        {
           "id": "bg-light",
           "name": "Фон 1",
           "description": "Для блоков Advantages, History...",
