@@ -25,7 +25,7 @@
             "faq-label": "#0e193c",
             "bg-footer": "#161d36",
             "copyright": "#6b6b6b",
-            "starColor": "#17d26a",
+            "starColor": "#5178ff",
             "baseFont": {
                 "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/11",
                 "isCustom": true
@@ -95,7 +95,7 @@
                 "No wagering bonus",
                 "Wide range of games"
             ],
-            "advantagesAfterText": "Some text after list",
+            "advantagesAfterText": "",
             "knowMore": "Know more",
             "appTitle": "Mobile App",
             "mobile": "http:\/\/159.223.4.88:8000\/api\/images\/download\/92",
@@ -337,7 +337,7 @@
             "mobileImage": "http:\/\/159.223.4.88:8000\/api\/images\/download\/88"
         },
         "topCasino": {
-            "topCasinoButtonText": "R\u00e9clamez le bonuses",
+            "topCasinoButtonText": "R\u00e9clamez le bonus",
             "title": "Meilleurs casinos",
             "allCasino": "Tous les casinos"
         },
