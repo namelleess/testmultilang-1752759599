@@ -577,7 +577,7 @@ body.overflow {
     max-height: 6rem;
   }
   .headerBlock {
-    padding: 1.5rem 2.5rem 1.5rem 2.7rem;
+    padding: 1.5rem 2.5rem 1.5rem 2.3rem;
   }
   .headerLogoContainer {
     max-width: 7.25rem;
@@ -837,7 +837,6 @@ body.overflow {
   }
   .heroBlock {
     text-align: center;
-    background: var(--casino-cards);
   }
   .heroGroup {
     margin-bottom: 0;
@@ -1936,8 +1935,8 @@ div:has(.moreInfoInput:checked + .moreInfoLabel) ~ .bonusDetailsInfo {
 @media (max-width: 32.5rem) {
   .headerLogoContainer,
   .header__logo {
-    max-width: 7.25rem;
-    width: 7.25rem;
+    max-width: 5.8rem;
+    width: 5.8rem;
   }
   .nav__list {
     flex-direction: row;
@@ -3363,9 +3362,9 @@ div:has(.moreInfoInput:checked + .moreInfoLabel) ~ .bonusDetailsInfo {
 margin-top: 8px;
   }
   .nav__linkLarge {
-    width: 6rem;
+    width: 4.9rem;
     font-size: 10px;
-    padding: 0.6rem;
+    padding: 0.4rem;
   }
   .advantages,
   .advantagesTitle {

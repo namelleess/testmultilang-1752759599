@@ -144,7 +144,7 @@ document.addEventListener("DOMContentLoaded", function() {
             e.offers && e.offers.length > 0
               ? `casino.html?id=${e.offers[0].id}`
               : "/";
-          n += `\n      <a \n      class="providersLink" \n      href="${a}" \n      aria-label="Play game" \n      target="_blank"\n      >\n      <span class="sprgradientContainer">\n      <span class="sprovidersContainer">\n      <img \n      class="sprovidersImage" \n      src="https://api.adkey-seo.com/storage/images/providers/${t.image || "default.png"}" \n      alt="${t.name || "Provider"}" \n      width="106" \n      height="47"\n      onerror="this.src='./assets/images/placeholder.png'"\n      />\n      </span>\n      </span>\n      </a>\n      `;
+          n += `\n      <span class="sprgradientContainer">\n      <span class="sprovidersContainer">\n      <img \n      class="sprovidersImage" \n      src="https://api.adkey-seo.com/storage/images/providers/${t.image || "default.png"}" \n      alt="${t.name || "Provider"}" \n title="${t.name} in ${casinoName}"      width="106" \n      height="47"\n      onerror="this.src='./assets/images/placeholder.png'"\n      />\n      </span>\n      </span>\n           `;
         }),
           (t.innerHTML = n);
       })(t);
@@ -167,7 +167,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const o = document.createElement("p");
         (o.className = "cardName"), (o.textContent = e.name);
         const i = document.createElement("p");
-        (i.className = "cardWelcome"), (i.textContent = "Welcome bonus");
+        (i.className = "cardWelcome"), (i.textContent = welcomeBonusText);
         const d = document.createElement("p");
         (d.className = "cardBonus"),
           (d.textContent = e.bonuses.welcome_bonus || "-"),

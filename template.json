@@ -689,6 +689,13 @@
       "name": "SEO Information",
       "fields": [
         {
+          "id": "name",
+          "name": "Casino Name",
+          "type": "text",
+          "description": "The name of the casino",
+          "default": "Paf Casino Sverige"
+        },
+        {
           "id": "title",
           "name": "Page Title",
           "type": "text",
@@ -885,6 +892,13 @@
           "type": "text",
           "description": "Text for all casino button",
           "default": "All Casino"
+        },
+        {
+          "id": "welcomeBonusText",
+          "name": "Welcome Bonus Text",
+          "type": "text",
+          "description": "Text for welcome bonus",
+          "default": "Welcome bonus"
         }
       ]
     },

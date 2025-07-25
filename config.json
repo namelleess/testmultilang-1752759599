@@ -36,6 +36,7 @@
             }
         },
         "seo": {
+            "name": "Paf Casino Sverige",
             "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
             "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, s\u00e4kra ins\u00e4ttningar och uttag. Spela med komfort och s\u00e4kerhet och gl\u00f6m inte att h\u00e4mta din bonus!",
             "canonical": "#",
@@ -69,7 +70,8 @@
         "topCasino": {
             "topCasinoButtonText": "Claim Bonus",
             "title": "Top Casino",
-            "allCasino": "All Casino"
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
         },
         "bonusDetails": {
             "title": "Bonus Details",
@@ -306,6 +308,7 @@
             }
         },
         "seo": {
+            "name": "Paf Casino Sverige",
             "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
             "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, s\u00e4kra ins\u00e4ttningar och uttag. Spela med komfort och s\u00e4kerhet och gl\u00f6m inte att h\u00e4mta din bonus!",
             "canonical": "#",
@@ -339,7 +342,8 @@
         "topCasino": {
             "topCasinoButtonText": "R\u00e9clamez le bonus",
             "title": "Meilleurs casinos",
-            "allCasino": "Tous les casinos"
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Welcome bonus"
         },
         "bonusDetails": {
             "title": "D\u00e9tails des bonus",
